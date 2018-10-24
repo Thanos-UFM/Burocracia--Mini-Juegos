@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - BorderTop
+  - BaseCollider
+  - LadrillosFall
+  - TaxMan
+  - DestroyLadrillos
+  - CircleFit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PerspectiveObjects
+  - OrthographicObjects
+  - Scroll0
+  - Scroll1
+  - Scroll2
+  - Scroll3
+  - Scroll4
+  - Scroll5
+  - Scroll6
+  - Scroll7
+  - Scroll8
+  - Scroll9
+  - Scroll10
+  - Scroll11
+  - Scroll12
+  - Scroll13
+  - Scroll14
+  - Scroll15
+  - TopOrthCamera
+  - 
+  - 
+  - 
+  - 
+  - AllOrthCameras
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
